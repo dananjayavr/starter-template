@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #E6E6E6;
+}
+
+h1 {
+    color: #297373;
+}
+
+.navbar li {
+    display: inline;
+    padding: 10px;
+    color: #39393A;
+    font-size: 1.2rem;
+    font-weight: bold; 
+}
+
+.header, .footer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+
